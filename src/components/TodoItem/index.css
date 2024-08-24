@@ -1,0 +1,21 @@
+.list-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.btn-style {
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  background-color: #ffffff;
+  height: 30px;
+  width: 125px;
+  padding: 5px;
+}

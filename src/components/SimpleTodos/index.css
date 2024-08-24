@@ -1,0 +1,23 @@
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding-top: 10px;
+}
+
+.card-container {
+  background-color: #ffffff;
+  border-radius: 7px;
+  width: 1020px;
+  min-height: 900px;
+  margin-left: 80px;
+  margin-top: 60px;
+  padding: 40px;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 55px;
+  text-align: center;
+  padding-to: 10px;
+}
